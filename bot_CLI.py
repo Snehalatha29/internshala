@@ -1,7 +1,9 @@
+#import statements
 import logging
 from binance.client import Client
 from binance.enums import *
 from getpass import getpass
+
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
