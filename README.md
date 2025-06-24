@@ -10,7 +10,7 @@ A Python-based trading bot that connects to the *Binance Futures Testnet, allowi
 - ✅ Place *Market* or *Limit* orders
 - 🔄 Check *order status*
 - 💰 View *account balance*
-- 🛡 Logs every action to trading_bot.log
+- 🛡 Logs every exceptions on the CLI
 - 🧪 Runs safely on the *Binance Testnet* (not real money)
 
 ---
